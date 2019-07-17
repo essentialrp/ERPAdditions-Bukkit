@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ERPBukkit">
+    <output-path>$PROJECT_DIR$/out/artifacts/ERPBukkit</output-path>
+    <root id="archive" name="ERPBukkit.jar">
+      <element id="module-output" name="ERPAdditions-Bukkit" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,7 @@
+main: erp.bukkit.additions.ERPBukkit
+version: 0.1
+author: Protoxy
+name: ERPBukkit
+
+commands:
+  identity:
